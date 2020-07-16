@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: splash
 title: About
 permalink: /about/
 ---
@@ -16,3 +16,6 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+<img src="https://es-one.github.io/assets/images/기업현황.jpg" alt="" class="full">
+

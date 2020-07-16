@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "회사소개"
-    url: https://es-one.github.io/_pages/about/
+    url: /about/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
