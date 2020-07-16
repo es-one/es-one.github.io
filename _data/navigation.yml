@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "회사소개"
+  - title: "회사 소개"
     url: /about/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "기술 / 개발"
+    url: /tech/
+  - title: "기업 제품"
+    url: /products/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
