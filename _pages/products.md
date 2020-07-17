@@ -4,8 +4,15 @@ title: Products
 permalink: /products/
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/company.png" alt="" width='1000' height='1000'/>  
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/LED_control_pro.png" alt="" width='2000' height='1000'/>  
   
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/history.png" alt="" width='1000' height='1000'/>
-
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/dimmer.png" alt="" width='1000' height='1000'/>  
+  
+  
+<br/>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/sensor.png" alt="" width='1000' height='1000'/>
+  
+  
+<br/>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/gateway.png" alt="" width='1000' height='1000'/>

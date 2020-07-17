@@ -2,8 +2,8 @@
 layout: splash
 permalink: /
 header:
-  overlay_filter: 0.7
-  overlay_image: /assets/images/history.png
+  overlay_filter: 0.6
+  overlay_image: /assets/images/LED_control.png
   actions:
     - label: "<i class='fas fa-download'></i> Learn More"
       url: "/about/"
@@ -34,4 +34,4 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
-{% include feature_row %}o
+{% include feature_row %}
