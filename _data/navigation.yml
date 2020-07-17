@@ -4,9 +4,9 @@ main:
     url: /about/
   - title: "기술 / 개발"
     url: /tech/
-  - title: "기업 제품"
+  - title: "제 품"
     url: /products/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "오시는길"
+    url: /contact/
   # - title: "Sitemap"
   #   url: /sitemap/
