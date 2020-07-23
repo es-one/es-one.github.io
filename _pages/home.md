@@ -8,7 +8,7 @@ header:
     - label: "<i class='fas fa-download'></i> Learn More"
       url: "/about/"
 excerpt: 
-  사람을 위한 기술, 사용하기 쉽고 유익한 제품<br /><br /><br />
+    임베디드 개발<br /><br /><br />
 
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
