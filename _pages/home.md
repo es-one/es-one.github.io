@@ -13,7 +13,7 @@ excerpt:
 feature_row:
   - title: "Energy Saving Solution System"
     excerpt: "에너지 절감 시스템 개발 및 생산, 판매."
-    url: "/tech"
+    url: "/about"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
